@@ -3,18 +3,17 @@ a GUI for chronjobs optimized for Raspbian / PI-OS
 
 
 1) install prereqs is needed
-2) install prereqs
 ```
   sudo apt update
   sudo apt install python3-tk python3-pip
   pip3 install python-crontab
 ```
-4) Download the application files from the repository or create them manually locally
-5) Make file executable
+2)) Download the application files from the repository or create them manually locally
+3) Make file executable
 ```
 chmod +x cron_gui.py
 ```
-7) Launch
+4) Launch
 ```
 ./cron_gui.py
 ```
