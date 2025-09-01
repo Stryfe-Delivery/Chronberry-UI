@@ -15,7 +15,7 @@ chmod +x cron_gui.py
 ```
 4) Launch
 ```
-./cron_gui.py
+sudo python3 cron_gui.py
 ```
 
 Usage:
